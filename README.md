@@ -33,6 +33,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+
 ```
 math.html
 <html>
@@ -149,10 +150,12 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<2025-05-03 (2).png>)
+<img width="960" alt="2025-05-03 (2)" src="https://github.com/user-attachments/assets/46b9a15f-43f9-48fb-aa65-89f99070614f" />
+
 
 ## HOMEPAGE:
-![alt text](2025-05-03.png)
+<img width="960" alt="2025-05-03" src="https://github.com/user-attachments/assets/da0840dd-60fb-4cf5-9414-83964659abe0" />
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
